@@ -1,0 +1,6 @@
+avr-gcc
+-I/usr/avr/include/
+-Wall 
+-Os 
+-DF_CPU=8000000
+-mmcu=attiny85
